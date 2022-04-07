@@ -1,0 +1,1 @@
+Here is a simple node Js application which makes use of route parameters.On routing to Welcome,it returns a message.On routing to 'welcome' and any particular name,it responds with a greeting to that name.
